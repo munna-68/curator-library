@@ -1,2 +1,1 @@
-# web-boilerplate-basic
-lightweight boilerplate for building static websites using vanilla HTML, CSS, and JavaScript. Clean structure, zero dependencies.
+a basin webapp with CRUD functionality using localStorage
